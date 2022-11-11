@@ -53,4 +53,3 @@ if (isset($_POST["submit"])) {
 } else {
     die("There is no file to upload.");
 }
-?>
